@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HlxGO1iqgDg+/o0ijrdye1Ij96OgJxtxGw8wFCKLOu4cOov0Lt8IQ4DBw4uYbAD5MPzQm20+nalcvqjLR379vQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Game_Dev_Academy_Snake_Game\\Snake_Task\\Snake_Final\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
