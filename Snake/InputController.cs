@@ -38,9 +38,7 @@ public class InputController
                 _snake.SetMoveDirectionToUp();
             }
         }
-
-
-        // Todo Напишите код для перемещения змейки влево
+        
         if (Keyboard.IsKeyPressed(Keyboard.Key.A) || Keyboard.IsKeyPressed(Keyboard.Key.Left))
         {
             // Проверка, что текущее направление змейки не вниз.
@@ -49,8 +47,7 @@ public class InputController
                 _snake.SetMoveDirectionToLeft();
             }
         }
-
-        // Todo Напишите код для перемещения змейки вправо
+        
         if (Keyboard.IsKeyPressed(Keyboard.Key.D) || Keyboard.IsKeyPressed(Keyboard.Key.Right))
         {
             // Проверка, что текущее направление змейки не вниз.
@@ -59,8 +56,7 @@ public class InputController
                 _snake.SetMoveDirectionToRight();
             }
         }
-
-        // Todo Напишите код для перемещения змейки вниз
+        
         if (Keyboard.IsKeyPressed(Keyboard.Key.S) || Keyboard.IsKeyPressed(Keyboard.Key.Down))
         {
             // Проверка, что текущее направление змейки не вниз.
